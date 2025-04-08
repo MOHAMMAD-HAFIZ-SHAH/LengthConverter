@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LengthConverter</string>
+    <string name="choose_theme">Choose Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
