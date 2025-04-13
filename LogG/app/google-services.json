@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733724412948",
+    "project_id": "logg-3acd6",
+    "storage_bucket": "logg-3acd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733724412948:android:b1b9615f2b06bcbe0bab01",
+        "android_client_info": {
+          "package_name": "com.example.logg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2a6vErqmC6X7pn6B7c_JbA4d8mHXI0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
